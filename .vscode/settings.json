@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": ".env/bin/python",
+    "python.pythonPath": "/usr/local/bin/python3",
     "azureFunctions.deploySubpath": "mlbgame.zip",
     "azureFunctions.pythonVenv": ".env",
     "azureFunctions.projectLanguage": "Python",
