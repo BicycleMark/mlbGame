@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/usr/local/Cellar/python/3.6.5_1",
+    "azureFunctions.deploySubpath": "mlbgame.zip",
+    "azureFunctions.pythonVenv": ".env",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack"
+}

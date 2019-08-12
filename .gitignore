@@ -62,3 +62,7 @@ test.py
 
 # idea
 *.idea*
+
+.env
+.python_packages
+mlbgame.zip
