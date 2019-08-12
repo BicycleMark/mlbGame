@@ -1,9 +1,0 @@
-{
-    "azureFunctions.deploySubpath": "azMlbGameDay/azMlbGameDay.zip",
-    "azureFunctions.pythonVenv": ".env",
-    "azureFunctions.projectLanguage": "Python",
-    "azureFunctions.projectRuntime": "~2",
-    "debug.internalConsoleOptions": "neverOpen",
-    "azureFunctions.preDeployTask": "func: pack",
-    "python.pythonPath": ".venv/bin/python3"
-}
